@@ -56,3 +56,17 @@ about whether a cited source is any good, and nothing about the conclusions of t
 receipt belongs to.
 
 *Attests what was checked, against which sources, at what time. Not a claim of truth.*
+
+## Published roots
+
+Newest first. Every file is signed and carries the previous day's root.
+
+<!-- roots-table:start -->
+| Date | Receipts | Seq | Root (sha256, first 16) | File |
+|---|---|---|---|---|
+| 2026-09-07 | 1 | 2–2 | `e25f7e1f827753f2` | [2026-09-07.json](roots/2026-09-07.json) |
+| 2026-09-06 | 1 | 1–1 | `9c56172ff2902b93` | [2026-09-06.json](roots/2026-09-06.json) |
+| 2026-09-05 | 0 | — | `e3b0c44298fc1c14` | [2026-09-05.json](roots/2026-09-05.json) |
+| 2026-09-04 | 0 | — | `e3b0c44298fc1c14` | [2026-09-04.json](roots/2026-09-04.json) |
+| 2026-09-03 | 0 | — | `e3b0c44298fc1c14` | [2026-09-03.json](roots/2026-09-03.json) |
+<!-- roots-table:end -->

@@ -64,6 +64,7 @@ Newest first. Every file is signed and carries the previous day's root.
 <!-- roots-table:start -->
 | Date | Receipts | Seq | Root (sha256, first 16) | File |
 |---|---|---|---|---|
+| 2026-09-08 | 19 | 3–21 | `e761abd46adc0495` | [2026-09-08.json](roots/2026-09-08.json) |
 | 2026-09-07 | 1 | 2–2 | `e25f7e1f827753f2` | [2026-09-07.json](roots/2026-09-07.json) |
 | 2026-09-06 | 1 | 1–1 | `9c56172ff2902b93` | [2026-09-06.json](roots/2026-09-06.json) |
 | 2026-09-05 | 0 | — | `e3b0c44298fc1c14` | [2026-09-05.json](roots/2026-09-05.json) |

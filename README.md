@@ -64,6 +64,7 @@ Newest first. Every file is signed and carries the previous day's root.
 <!-- roots-table:start -->
 | Date | Receipts | Seq | Root (sha256, first 16) | File |
 |---|---|---|---|---|
+| 2026-11-23 | 99 | 6481–6579 | `3ac14ec55d1298dc` | [2026-11-23.json](roots/2026-11-23.json) |
 | 2026-11-22 | 99 | 6382–6480 | `35af993c4e16676f` | [2026-11-22.json](roots/2026-11-22.json) |
 | 2026-11-21 | 99 | 6283–6381 | `195794c413005608` | [2026-11-21.json](roots/2026-11-21.json) |
 | 2026-11-20 | 99 | 6184–6282 | `9282a546044147ed` | [2026-11-20.json](roots/2026-11-20.json) |
@@ -93,6 +94,5 @@ Newest first. Every file is signed and carries the previous day's root.
 | 2026-10-27 | 99 | 3808–3906 | `e4bf2329401ca55c` | [2026-10-27.json](roots/2026-10-27.json) |
 | 2026-10-26 | 99 | 3709–3807 | `301aa6ace3f42443` | [2026-10-26.json](roots/2026-10-26.json) |
 | 2026-10-25 | 99 | 3610–3708 | `e9b0f27bf1c969d4` | [2026-10-25.json](roots/2026-10-25.json) |
-| 2026-10-24 | 99 | 3511–3609 | `96779432597a7a5d` | [2026-10-24.json](roots/2026-10-24.json) |
-| … | | | | 51 older file(s) in `roots/` |
+| … | | | | 52 older file(s) in `roots/` |
 <!-- roots-table:end -->
